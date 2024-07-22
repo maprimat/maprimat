@@ -6,7 +6,6 @@ I'm Matias, a received Analyst Programmer & certified Frontend Developer from Ch
 I'm currently working in some personal projects, practicing and studying mostly Frontend languages and frameworks. As a side gig I do audiovisual works, mainly focused on Motion Graphics.
 
 
-
 ## ⌨️ Skills
 
 Here are my up-to-date development skills

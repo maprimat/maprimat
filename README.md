@@ -1,10 +1,10 @@
 # ✨ Hello everyone!
 
-I'm Matias, a received Analyst Programmer & certified Frontend Developer from Chile. I also am a Motion Graphics Designer in my free time.
+I'm Matias, a former Programmer Analyst & certified Frontend Developer from Chile. I also am a Motion Designer in my free time.
+
 ## 👤 Currently
 
 I'm currently working in some personal projects, practicing and studying mostly Frontend languages and frameworks. As a side gig I do audiovisual works, mainly focused on Motion Graphics.
-
 
 ## ⌨️ Skills
 
@@ -22,12 +22,9 @@ Here are my up-to-date development skills
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
-
-
 ## 💻 Software
 
 List of some of the softwares I can use
-
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -43,8 +40,6 @@ List of some of the softwares I can use
 ![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-
 
 ## ✉️ Contact
 
